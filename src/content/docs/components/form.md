@@ -97,7 +97,7 @@ The `<Form />` component is a wrapper around the `vee-validate` library. It prov
 <template #CLI>
 
 ```bash
-npx brodevscope@latest add form
+npx brodevuz@latest add form
 ```
 </template>
 

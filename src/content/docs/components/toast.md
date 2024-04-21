@@ -14,7 +14,7 @@ primitive: https://www.radix-vue.com/components/toast.html
 ### Run the following command
 
 ```bash
-npx brodevscope@latest add toast
+npx brodevuz@latest add toast
 ```
 
 ### Add the Toaster component

@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/combobox.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add command
+npx brodevuz@latest add command
 ```
 ## Usage
 

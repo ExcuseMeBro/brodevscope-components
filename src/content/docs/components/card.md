@@ -8,7 +8,7 @@ description: Displays a card with header, content, and footer.
 ## Installation
 
 ```bash
-npx brodevscope@latest add card
+npx brodevuz@latest add card
 ```
 
 ## Usage

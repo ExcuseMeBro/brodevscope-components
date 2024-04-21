@@ -11,7 +11,7 @@ description: Displays a form input field or a component that looks like an input
 <template #CLI>
 
 ```bash
-npx brodevscope@latest add input
+npx brodevuz@latest add input
 ```
 </template>
 

@@ -18,7 +18,7 @@ The Sonner component is provided by [vue-sonner](https://vue-sonner.vercel.app/)
 ### Run the following command
 
 ```bash
-npx brodevscope@latest add sonner
+npx brodevuz@latest add sonner
 ```
 
 ### Add the Toaster component

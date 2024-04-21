@@ -11,7 +11,7 @@ description: Displays a badge or a component that looks like a badge.
 <template #CLI>
 
 ```bash
-npx brodevscope@latest add badge
+npx brodevuz@latest add badge
 ```
 </template>
 

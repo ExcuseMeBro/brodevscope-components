@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/popover.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add popover
+npx brodevuz@latest add popover
 ```
 
 ## Usage

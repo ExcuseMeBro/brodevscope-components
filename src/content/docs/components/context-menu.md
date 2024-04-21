@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/context-menu.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add context-menu
+npx brodevuz@latest add context-menu
 ```
 
 ## Usage

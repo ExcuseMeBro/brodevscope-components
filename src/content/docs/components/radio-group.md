@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/radio-group.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add radio-group
+npx brodevuz@latest add radio-group
 ```
 
 ## Usage

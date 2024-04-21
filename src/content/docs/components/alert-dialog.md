@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/alert-dialog.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add alert-dialog
+npx brodevuz@latest add alert-dialog
 ```
 
 ## Usage

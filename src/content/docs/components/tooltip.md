@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/tooltip.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add tooltip
+npx brodevuz@latest add tooltip
 ```
 
 ## Usage

@@ -11,7 +11,7 @@ description: Displays a button or a component that looks like a button.
 <template #CLI>
 
 ```bash
-npx brodevscope@latest add button
+npx brodevuz@latest add button
 ```
 </template>
 

@@ -17,7 +17,7 @@ The `Calendar` component is built on top of [VCalendar](https://vcalendar.io/get
 <template #CLI>
 
 ```bash
-npx brodevscope@latest add v-calendar
+npx brodevuz@latest add v-calendar
 ```
 </template>
 

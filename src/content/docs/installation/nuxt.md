@@ -171,7 +171,7 @@ export default defineNuxtConfig({
 Run the `brodevscope` init command to setup your project:
 
 ```bash
-npx brodevscope@latest init
+npx brodevuz@latest init
 ```
 
 ### Configure components.json
@@ -236,7 +236,7 @@ Here's the default structure of Nuxt app. You can use this as a reference:
 You can now start adding components to your project.
 
 ```bash
-npx brodevscope@latest add button
+npx brodevuz@latest add button
 ```
 
 The command above will add the `Button` component to your project. Nuxt autoImport will handle importing the components, you can just use it as such:

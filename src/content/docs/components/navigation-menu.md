@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/navigation-menu.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add navigation-menu
+npx brodevuz@latest add navigation-menu
 ```
 
 ## Usage

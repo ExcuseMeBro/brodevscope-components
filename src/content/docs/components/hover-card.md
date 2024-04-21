@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/hover-card.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add hover-card
+npx brodevuz@latest add hover-card
 ```
 ## Usage
 

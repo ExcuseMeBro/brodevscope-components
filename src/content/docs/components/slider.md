@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/slider.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add slider
+npx brodevuz@latest add slider
 ```
 
 ## Usage

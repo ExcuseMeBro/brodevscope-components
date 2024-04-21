@@ -8,7 +8,7 @@ description: Displays a callout for user attention.
 ## Installation
 
 ```bash
-npx brodevscope@latest add alert
+npx brodevuz@latest add alert
 ```
 
 ## Usage

@@ -13,7 +13,7 @@ primitive: https://www.radix-vue.com/components/aspect-ratio.html
 <template #CLI>
 
 ```bash
-npx brodevscope@latest add aspect-ratio
+npx brodevuz@latest add aspect-ratio
 ```
 </template>
 

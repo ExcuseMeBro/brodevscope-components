@@ -14,5 +14,5 @@ The `<RangeCalendar />` component is built on top of the [RadixVue Range Calenda
 ## Installation
 
 ```bash
-npx brodevscope@latest add range-calendar
+npx brodevuz@latest add range-calendar
 ```

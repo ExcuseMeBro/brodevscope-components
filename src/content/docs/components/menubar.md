@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/menubar.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add menubar
+npx brodevuz@latest add menubar
 ```
 
 ## Usage

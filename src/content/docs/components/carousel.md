@@ -14,7 +14,7 @@ The carousel component is built using the [Embla Carousel](https://www.embla-car
 ## Installation
 
 ```bash
-npx brodevscope@latest add carousel
+npx brodevuz@latest add carousel
 ```
 
 ## Usage

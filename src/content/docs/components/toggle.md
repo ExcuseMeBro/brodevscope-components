@@ -13,7 +13,7 @@ primitive: https://www.radix-vue.com/components/toggle.html
 <template #CLI>
 
 ```bash
-npx brodevscope@latest add toggle
+npx brodevuz@latest add toggle
 ```
 </template>
 

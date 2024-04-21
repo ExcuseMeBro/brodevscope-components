@@ -14,7 +14,7 @@ Drawer is built on top of [Vaul Vue](https://github.com/radix-vue/vaul-vue).
 ## Installation
 
 ```bash
-npx brodevscope@latest add drawer
+npx brodevuz@latest add drawer
 ```
 
 ## Usage

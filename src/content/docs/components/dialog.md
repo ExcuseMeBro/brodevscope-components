@@ -9,7 +9,7 @@ primitive: https://www.radix-vue.com/components/dialog.html
 
  ## Installation
 ```bash
-npx brodevscope@latest add dialog
+npx brodevuz@latest add dialog
 ```
 
 ## Usage

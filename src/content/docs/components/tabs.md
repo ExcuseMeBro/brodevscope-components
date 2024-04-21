@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/tabs.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add tabs
+npx brodevuz@latest add tabs
 ```
 
 ## Usage

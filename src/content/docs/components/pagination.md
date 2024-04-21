@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/pagination.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add pagination
+npx brodevuz@latest add pagination
 ```
 
 ## Usage

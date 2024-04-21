@@ -8,7 +8,7 @@ description: Displays the path to the current resource using a hierarchy of link
 ## Installation
 
 ```bash
-npx brodevscope@latest add breadcrumb
+npx brodevuz@latest add breadcrumb
 ```
 
 ## Usage

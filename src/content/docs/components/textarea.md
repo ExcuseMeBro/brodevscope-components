@@ -11,7 +11,7 @@ description: Displays a form textarea or a component that looks like a textarea.
 <template #CLI>
 
 ```bash
-npx brodevscope@latest add textarea
+npx brodevuz@latest add textarea
 ```
 </template>
 

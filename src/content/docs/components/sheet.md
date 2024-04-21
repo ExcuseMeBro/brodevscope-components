@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/dialog.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add sheet
+npx brodevuz@latest add sheet
 ```
 
 ## Usage

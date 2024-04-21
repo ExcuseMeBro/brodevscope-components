@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/scroll-area.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add scroll-area
+npx brodevuz@latest add scroll-area
 ```
 ## Usage
 

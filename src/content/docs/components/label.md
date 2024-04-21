@@ -13,7 +13,7 @@ primitive: https://www.radix-vue.com/components/label.html
 <template #CLI>
 
 ```bash
-npx brodevscope@latest add label
+npx brodevuz@latest add label
 ```
 </template>
 

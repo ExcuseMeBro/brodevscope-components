@@ -11,7 +11,7 @@ description: Use to show a placeholder while content is loading.
 <template #CLI>
 
 ```bash
-npx brodevscope@latest add skeleton
+npx brodevuz@latest add skeleton
 ```
 </template>
 

@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/select.html
 ## Installation
 
 ```bash
-npx brodevscope@latest add select
+npx brodevuz@latest add select
 ```
 
 ## Usage

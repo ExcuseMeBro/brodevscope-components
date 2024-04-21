@@ -8,7 +8,7 @@ description: A responsive table component.
 ## Installation
 
 ```bash
-npx brodevscope@latest add table
+npx brodevuz@latest add table
 ```
 
 ## Usage
