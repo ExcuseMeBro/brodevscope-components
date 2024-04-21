@@ -1,7 +1,7 @@
 import { getParameters } from 'codesandbox/lib/api/define'
 import sdk from '@stackblitz/sdk'
 import { dependencies as deps } from '../../../package.json'
-import { Index as demoIndex } from '../../../../www/__registry__'
+import { Index as demoIndex } from '../../../__registry__'
 import tailwindConfigRaw from '../../../tailwind.config?raw'
 import cssRaw from '../../../src/assets/css/tailwind.css?raw'
 import type { Style } from '@/lib/registry/styles'
