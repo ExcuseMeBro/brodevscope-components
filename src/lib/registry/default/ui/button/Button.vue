@@ -16,7 +16,11 @@ const props = withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-  <button>
-    This is my amazing button
-  </button>
+  <Primitive
+      :as="as"
+      :as-child="asChild"
+      :class="cn(buttonVariants({ variant, size }), props.class)"
+  >
+    <slot />
+  </Primitive>
 </template>
