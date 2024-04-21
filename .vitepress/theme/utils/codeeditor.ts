@@ -129,8 +129,8 @@ function constructFiles(componentName: string, style: Style, sources: Record<str
   const files = {
     'package.json': {
       content: {
-        name: `brodevscope-${componentName.toLowerCase().replace(/ /g, '-')}`,
-        scripts: { start: `brodevscope add ${registryDependencies.join(' ')} -y && vite` },
+        name: `brodevuz-${componentName.toLowerCase().replace(/ /g, '-')}`,
+        scripts: { start: `brodevuz add ${registryDependencies.join(' ')} -y && vite` },
         dependencies,
         devDependencies,
       },
