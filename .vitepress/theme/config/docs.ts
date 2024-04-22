@@ -349,6 +349,7 @@ export const docsConfig: DocsConfig = {
           title: 'Switch',
           href: '/docs/components/switch',
           items: [],
+          label: 'Updated',
         },
         {
           title: 'Table',
